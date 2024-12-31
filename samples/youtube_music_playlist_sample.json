@@ -1,0 +1,87 @@
+{
+  "owned": true,
+  "id": "PLkKimNAb9bUC8b3R4SxfoXdVNxaLXW2kF",
+  "privacy": "PRIVATE",
+  "description": null,
+  "views": null,
+  "duration": "9 minutes, 5 seconds",
+  "trackCount": 2,
+  "title": "Music",
+  "thumbnails": [
+    {
+      "url": "https://yt3.ggpht.com/9NApFo9rl8aOX9OBdDnyoOs5vkk-lE-P-hWQv77-ufY5ZQdadw4mp9Q-OvHFxt91R8jcyDKHrYA=s192",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "url": "https://yt3.ggpht.com/9NApFo9rl8aOX9OBdDnyoOs5vkk-lE-P-hWQv77-ufY5ZQdadw4mp9Q-OvHFxt91R8jcyDKHrYA=s576",
+      "width": 576,
+      "height": 576
+    },
+    {
+      "url": "https://yt3.ggpht.com/9NApFo9rl8aOX9OBdDnyoOs5vkk-lE-P-hWQv77-ufY5ZQdadw4mp9Q-OvHFxt91R8jcyDKHrYA=s1200",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "artists": [],
+  "year": "2020",
+  "related": [],
+  "tracks": [
+    {
+      "videoId": "c745E7T_Wvg",
+      "title": "Obadiah Parker - Hey Ya Cover",
+      "artists": [
+        {
+          "name": "ObadiahParker",
+          "id": "UCEtQBC3ULJSTq5CfOmgBVQw"
+        }
+      ],
+      "album": null,
+      "likeStatus": "INDIFFERENT",
+      "inLibrary": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/c745E7T_Wvg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs=AMzJL3kcj9H31PQBrAQSwLeqJ4DqHmDvGg",
+          "width": 320,
+          "height": 180
+        }
+      ],
+      "isAvailable": true,
+      "isExplicit": false,
+      "videoType": "MUSIC_VIDEO_TYPE_OMV",
+      "views": null,
+      "duration": "4:38",
+      "duration_seconds": 278,
+      "setVideoId": "56B44F6D10557CC6"
+    },
+    {
+      "videoId": "q5ggv-5s4bs",
+      "title": "Nocturne (Live)",
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "id": "UCyLOcAaj_zgWQH99Y2aELVw"
+        }
+      ],
+      "album": null,
+      "likeStatus": "INDIFFERENT",
+      "inLibrary": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/q5ggv-5s4bs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ksY6HSPU5Jb0Q6JfXfppC5UTiAJw",
+          "width": 400,
+          "height": 225
+        }
+      ],
+      "isAvailable": true,
+      "isExplicit": false,
+      "videoType": "MUSIC_VIDEO_TYPE_OMV",
+      "views": null,
+      "duration": "4:27",
+      "duration_seconds": 267,
+      "setVideoId": "289F4A46DF0A30D2"
+    }
+  ],
+  "duration_seconds": 545
+}

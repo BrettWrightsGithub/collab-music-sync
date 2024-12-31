@@ -56,5 +56,5 @@ def get_playlist_details(playlist_id):
 
 if __name__ == "__main__":
     # Family playlist ID
-    playlist_id = "PLkKimNAb9bUAIlOJFE_xUFJNmpnt-DZKq"
+    playlist_id = "PLkKimNAb9bUC8b3R4SxfoXdVNxaLXW2kF"
     get_playlist_details(playlist_id)
