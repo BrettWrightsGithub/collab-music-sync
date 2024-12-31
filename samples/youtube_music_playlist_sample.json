@@ -1,40 +1,40 @@
 {
   "owned": true,
-  "id": "PLkKimNAb9bUC8b3R4SxfoXdVNxaLXW2kF",
-  "privacy": "PRIVATE",
-  "description": null,
+  "id": "PLkKimNAb9bUBoLdTRV45z9MYWWmEVZ_s8",
+  "privacy": "PUBLIC",
+  "description": "please match this to spotify",
   "views": null,
-  "duration": "9 minutes, 5 seconds",
-  "trackCount": 2,
-  "title": "Music",
+  "duration": "10 minutes, 21 seconds",
+  "trackCount": 3,
+  "title": "Match Me",
   "thumbnails": [
     {
-      "url": "https://yt3.ggpht.com/9NApFo9rl8aOX9OBdDnyoOs5vkk-lE-P-hWQv77-ufY5ZQdadw4mp9Q-OvHFxt91R8jcyDKHrYA=s192",
+      "url": "https://yt3.googleusercontent.com/Vy1HclgaCa_qy3M-5VEdDRT_PXWIlXPP7AeWk2RH-seTMoRA-IVTPPkvGzDV5qvBM9T8gu57pO4=s192",
       "width": 192,
       "height": 192
     },
     {
-      "url": "https://yt3.ggpht.com/9NApFo9rl8aOX9OBdDnyoOs5vkk-lE-P-hWQv77-ufY5ZQdadw4mp9Q-OvHFxt91R8jcyDKHrYA=s576",
+      "url": "https://yt3.googleusercontent.com/Vy1HclgaCa_qy3M-5VEdDRT_PXWIlXPP7AeWk2RH-seTMoRA-IVTPPkvGzDV5qvBM9T8gu57pO4=s576",
       "width": 576,
       "height": 576
     },
     {
-      "url": "https://yt3.ggpht.com/9NApFo9rl8aOX9OBdDnyoOs5vkk-lE-P-hWQv77-ufY5ZQdadw4mp9Q-OvHFxt91R8jcyDKHrYA=s1200",
+      "url": "https://yt3.googleusercontent.com/Vy1HclgaCa_qy3M-5VEdDRT_PXWIlXPP7AeWk2RH-seTMoRA-IVTPPkvGzDV5qvBM9T8gu57pO4=s1200",
       "width": 1200,
       "height": 1200
     }
   ],
   "artists": [],
-  "year": "2020",
+  "year": "2024",
   "related": [],
   "tracks": [
     {
-      "videoId": "c745E7T_Wvg",
-      "title": "Obadiah Parker - Hey Ya Cover",
+      "videoId": "u-WTfP3WJc4",
+      "title": "Loretta",
       "artists": [
         {
-          "name": "ObadiahParker",
-          "id": "UCEtQBC3ULJSTq5CfOmgBVQw"
+          "name": "Ginger Root",
+          "id": "UC6sTMDwF1CYXE132EMgQtPw"
         }
       ],
       "album": null,
@@ -42,34 +42,7 @@
       "inLibrary": null,
       "thumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/c745E7T_Wvg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs=AMzJL3kcj9H31PQBrAQSwLeqJ4DqHmDvGg",
-          "width": 320,
-          "height": 180
-        }
-      ],
-      "isAvailable": true,
-      "isExplicit": false,
-      "videoType": "MUSIC_VIDEO_TYPE_OMV",
-      "views": null,
-      "duration": "4:38",
-      "duration_seconds": 278,
-      "setVideoId": "56B44F6D10557CC6"
-    },
-    {
-      "videoId": "q5ggv-5s4bs",
-      "title": "Nocturne (Live)",
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "id": "UCyLOcAaj_zgWQH99Y2aELVw"
-        }
-      ],
-      "album": null,
-      "likeStatus": "INDIFFERENT",
-      "inLibrary": null,
-      "thumbnails": [
-        {
-          "url": "https://i.ytimg.com/vi/q5ggv-5s4bs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ksY6HSPU5Jb0Q6JfXfppC5UTiAJw",
+          "url": "https://i.ytimg.com/vi/u-WTfP3WJc4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kd9hjs2JYDNKN2G1rFmfHbVvO0Kg",
           "width": 400,
           "height": 225
         }
@@ -78,10 +51,88 @@
       "isExplicit": false,
       "videoType": "MUSIC_VIDEO_TYPE_OMV",
       "views": null,
-      "duration": "4:27",
-      "duration_seconds": 267,
-      "setVideoId": "289F4A46DF0A30D2"
+      "duration": "3:10",
+      "duration_seconds": 190,
+      "setVideoId": "56B44F6D10557CC6"
+    },
+    {
+      "videoId": "NI9nopaieEc",
+      "title": "Robots",
+      "artists": [
+        {
+          "name": "Flight of the Conchords",
+          "id": "UC3WkWevH2Z52SF2JF6mhdTQ"
+        }
+      ],
+      "album": {
+        "name": "Flight Of The Conchords",
+        "id": "MPREb_Tb1YDXcpRF4"
+      },
+      "likeStatus": "INDIFFERENT",
+      "inLibrary": false,
+      "thumbnails": [
+        {
+          "url": "https://lh3.googleusercontent.com/YZ9jRCmVz8EMGSsB6iO0ndytd2v-A-a0pvFvIYrY8zViKLEsomLlhuQ5ZXaVmDPPJiQercfbDjdKVqs=w60-h60-l90-rj",
+          "width": 60,
+          "height": 60
+        },
+        {
+          "url": "https://lh3.googleusercontent.com/YZ9jRCmVz8EMGSsB6iO0ndytd2v-A-a0pvFvIYrY8zViKLEsomLlhuQ5ZXaVmDPPJiQercfbDjdKVqs=w120-h120-l90-rj",
+          "width": 120,
+          "height": 120
+        }
+      ],
+      "isAvailable": true,
+      "isExplicit": false,
+      "videoType": "MUSIC_VIDEO_TYPE_ATV",
+      "views": null,
+      "duration": "3:44",
+      "duration_seconds": 224,
+      "setVideoId": "289F4A46DF0A30D2",
+      "feedbackTokens": {
+        "add": "AB9zfpJ25aBwb003J66p-_9HsL1KNABTqXGGvz9DLi9S1LxplZ2nK1xveSSShaU30iJyWIoU2CxhnWgJO86Dd5XZtbxvAvJ_LQ",
+        "remove": "AB9zfpJ2MI-Pyi84cClky-Q7hqau2DIu9ufmcr0xOCGeBqBqbs-gaM-JunAj01BEGsrXM1dtPSW3mqmJ7ISI3_qywOhHkUOEwg"
+      }
+    },
+    {
+      "videoId": "Hz5SFQsLzAg",
+      "title": "Carol Brown",
+      "artists": [
+        {
+          "name": "Flight of the Conchords",
+          "id": "UC3WkWevH2Z52SF2JF6mhdTQ"
+        }
+      ],
+      "album": {
+        "name": "I Told You I Was Freaky",
+        "id": "MPREb_L2DwZvBjCl4"
+      },
+      "likeStatus": "INDIFFERENT",
+      "inLibrary": false,
+      "thumbnails": [
+        {
+          "url": "https://lh3.googleusercontent.com/p3tBkhfqQ-WM_nEoJaKDcQMcR6MlvyWwhohOmubFoGoMdUZcjiPNI-5Kltr5lVkdW2sW14JLkBM8rZYUnw=w60-h60-l90-rj",
+          "width": 60,
+          "height": 60
+        },
+        {
+          "url": "https://lh3.googleusercontent.com/p3tBkhfqQ-WM_nEoJaKDcQMcR6MlvyWwhohOmubFoGoMdUZcjiPNI-5Kltr5lVkdW2sW14JLkBM8rZYUnw=w120-h120-l90-rj",
+          "width": 120,
+          "height": 120
+        }
+      ],
+      "isAvailable": true,
+      "isExplicit": false,
+      "videoType": "MUSIC_VIDEO_TYPE_ATV",
+      "views": null,
+      "duration": "3:27",
+      "duration_seconds": 207,
+      "setVideoId": "017208FAA85233F9",
+      "feedbackTokens": {
+        "add": "AB9zfpKmwLIDqqgGg_vYRDNZko0K1hlYWLojs2HAxrsLmN6wyCjCSdqq0dovHdpfgeYmvaGJC684zJ1NHPmhBFibK37aDBrTpg",
+        "remove": "AB9zfpIGoJzFsEcKNquLA-vNhUs8Ml-VV3-V1mjeR52I4M4H4iRk3-_OfEKPHEpRrkX-EGvAQ1oBG2nJ1arrjyzB9cEkf-_gnA"
+      }
     }
   ],
-  "duration_seconds": 545
+  "duration_seconds": 621
 }
